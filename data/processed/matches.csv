@@ -1,0 +1,46 @@
+match_id,venue,team1,team2,toss_winner,toss_decision,first_ings_score,second_ings_score,match_winner
+1,Wankhede Stadium,MI,PBKS,MI,Bowl,193,181,MI
+2,Wankhede Stadium,MI,RCB,RCB,Bowl,219,213,MI
+3,Wankhede Stadium,MI,GT,MI,Bat,190,178,MI
+4,Wankhede Stadium,MI,SRH,SRH,Bowl,201,211,SRH
+5,Wankhede Stadium,MI,LSG,MI,Bowl,191,185,MI
+6,Wankhede Stadium,MI,CSK,CSK,Bat,193,203,CSK
+7,Wankhede Stadium,MI,KKR,MI,Bowl,191,185,MI
+8,Wankhede Stadium,MI,DC,DC,Bowl,210,204,MI
+9,Wankhede Stadium,MI,RR,MI,Bat,203,207,RR
+10,New PCA Cricket Stadium,PBKS,RCB,RCB,Bowl,182,177,PBKS
+11,New PCA Cricket Stadium,PBKS,GT,PBKS,Bowl,167,155,PBKS
+12,New PCA Cricket Stadium,PBKS,SRH,SRH,Bat,184,178,PBKS
+13,New PCA Cricket Stadium,PBKS,LSG,PBKS,Bowl,167,162,PBKS
+14,New PCA Cricket Stadium,PBKS,CSK,CSK,Bowl,166,161,PBKS
+15,New PCA Cricket Stadium,PBKS,KKR,PBKS,Bat,178,172,PBKS
+16,New PCA Cricket Stadium,PBKS,DC,DC,Bowl,174,168,PBKS
+17,New PCA Cricket Stadium,PBKS,RR,PBKS,Bowl,174,178,RR
+18,M. Chinnaswamy Stadium,RCB,GT,GT,Bat,190,194,GT
+19,M. Chinnaswamy Stadium,RCB,SRH,RCB,Bowl,236,230,RCB
+20,M. Chinnaswamy Stadium,RCB,LSG,LSG,Bowl,187,197,LSG
+21,M. Chinnaswamy Stadium,RCB,CSK,RCB,Bat,174,169,RCB
+22,M. Chinnaswamy Stadium,RCB,KKR,KKR,Bowl,190,192,KKR
+23,M. Chinnaswamy Stadium,RCB,DC,RCB,Bowl,205,215,DC
+24,M. Chinnaswamy Stadium,RCB,RR,RR,Bat,201,211,RR
+25,Narendra Modi Stadium,GT,SRH,GT,Bowl,193,181,GT
+26,Narendra Modi Stadium,GT,LSG,LSG,Bowl,204,208,LSG
+27,Narendra Modi Stadium,GT,CSK,GT,Bat,157,161,CSK
+28,Narendra Modi Stadium,GT,KKR,KKR,Bowl,202,190,GT
+29,Narendra Modi Stadium,GT,DC,GT,Bowl,181,176,GT
+30,Narendra Modi Stadium,GT,RR,RR,Bat,194,188,GT
+31,Rajiv Gandhi International Stadium,SRH,LSG,SRH,Bowl,209,204,SRH
+32,Rajiv Gandhi International Stadium,SRH,CSK,CSK,Bowl,166,161,SRH
+33,Rajiv Gandhi International Stadium,SRH,KKR,SRH,Bat,180,190,KKR
+34,Rajiv Gandhi International Stadium,SRH,DC,DC,Bowl,210,198,SRH
+35,Rajiv Gandhi International Stadium,SRH,RR,SRH,Bowl,206,201,SRH
+36,Ekana Cricket Stadium,LSG,CSK,CSK,Bat,183,185,CSK
+37,Ekana Cricket Stadium,LSG,KKR,LSG,Bowl,180,175,LSG
+38,Ekana Cricket Stadium,LSG,DC,DC,Bowl,159,169,DC
+39,Ekana Cricket Stadium,LSG,RR,LSG,Bat,177,172,LSG
+40,MA Chidambaram Stadium,CSK,KKR,KKR,Bowl,179,183,KKR
+41,MA Chidambaram Stadium,CSK,DC,CSK,Bowl,195,190,CSK
+42,MA Chidambaram Stadium,CSK,RR,RR,Bat,180,174,CSK
+43,Eden Gardens,KKR,DC,KKR,Bowl,169,163,KKR
+44,Eden Gardens,KKR,RR,RR,Bowl,221,231,RR
+45,Arun Jaitley Stadium,DC,RR,DC,Bat,157,161,RR
